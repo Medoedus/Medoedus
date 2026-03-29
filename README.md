@@ -1,16 +1,16 @@
-## Hi there 👋
+### Alex Kelchin
 
-<!--
-**Medoedus/Medoedus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security researcher. CEO at **Serebrium**.
 
-Here are some ideas to get you started:
+AI-assisted vulnerability research, code security audit, compliance advisory (MiCA, DORA, PCI DSS).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Focus areas
+
+- C/C++ memory safety in database engines and ML frameworks
+- Binary protocol and file format attack surface
+- Serialization security (FlatBuffers, protobuf, msgpack)
+- Fintech and blockchain infrastructure
+
+#### Contact
+
+alex@serebrium.ru
