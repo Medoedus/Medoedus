@@ -1,16 +1,27 @@
-### Alex Kelchin
+# Alex Kelchin
 
-Security researcher. CEO at **Serebrium**.
+Security researcher and founder at Serebrium.
 
-AI-assisted vulnerability research, code security audit, compliance advisory (MiCA, DORA, PCI DSS).
+6+ years doing security for fintech, blockchain, and DeFi. CISO-track, then shifted to offense - code audits, vulnerability research, security architecture.
 
-#### Focus areas
+## Focus
 
-- C/C++ memory safety in database engines and ML frameworks
-- Binary protocol and file format attack surface
-- Serialization security (FlatBuffers, protobuf, msgpack)
-- Fintech and blockchain infrastructure
+- Code security audits (C/C++, Go, Rust) - memory safety, binary protocol parsing, deserialization
+- AI-assisted vulnerability research - automated exploration with manual verification and PoC for every finding
+- Compliance architecture - MiCA, DORA, PCI DSS, FSTEC/FSB
 
-#### Contact
+## Security research
 
-alex@serebrium.ru
+Active vulnerability research in open-source projects used in blockchain infrastructure and ML systems. Coordinated disclosure, 90-day policy. Details published after vendor fixes.
+
+## Stack
+
+C, C++, Python, Go | IDA/Ghidra, ASAN/UBSAN, AFL++ | Claude Code for automated code path exploration
+
+## Talks
+
+PHDays
+
+## Contact
+
+alex@serebrium.ru | [Telegram](https://t.me/medoedus)
