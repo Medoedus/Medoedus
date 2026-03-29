@@ -24,4 +24,4 @@ PHDays
 
 ## Contact
 
-alex@serebrium.ru | [Telegram](https://t.me/medoedus)
+alex@serebrium.ru | [Telegram](https://t.me/Kelchin_InfoSec)
