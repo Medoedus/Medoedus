@@ -1,6 +1,6 @@
 # Alex Kelchin
 
-Security researcher and founder at Serebrium.
+Security researcher and founder at Operanta
 
 6+ years doing security for fintech, blockchain, and DeFi. CISO-track, then shifted to offense - code audits, vulnerability research, security architecture.
 
