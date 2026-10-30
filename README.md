@@ -1,6 +1,6 @@
 # Alex Kelchin
 
-Security researcher and founder at Operanta
+Security researcher
 
 6+ years doing security for fintech, blockchain, and DeFi. CISO-track, then shifted to offense - code audits, vulnerability research, security architecture.
 
